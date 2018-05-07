@@ -169,6 +169,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
+<p><strong>Registration:</strong> Please register by completing the form at
+	<a href="https://docs.google.com/forms/d/1eyE7gQ8yABmNyZ5YktS3V9xK6KAhi1RGL5olzrwrbKM/edit">Application Form</a> </p>
 <hr/>
 
 {% comment %} 
