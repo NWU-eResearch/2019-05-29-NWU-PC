@@ -46,11 +46,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
@@ -148,14 +143,6 @@ and our administrator may contact you if we need any extra information.</h4>
   <li>The room is wheelchair / scooter accessible.</li>
   <li>Accessible restrooms are available.</li>
 </ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
 
 {% comment %}
   CONTACT EMAIL ADDRESS
@@ -226,7 +213,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
+      http://pad.software-carpentry.org/2018-06-14-NWU
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
