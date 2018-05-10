@@ -170,7 +170,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>Registration:</strong> Please register by completing the form at
-	<a href="https://docs.google.com/forms/d/1eyE7gQ8yABmNyZ5YktS3V9xK6KAhi1RGL5olzrwrbKM/edit">Application Form</a>. Succesfull candidates will be contacted via email. </p>
+	<a href="https://docs.google.com/forms/d/1eyE7gQ8yABmNyZ5YktS3V9xK6KAhi1RGL5olzrwrbKM/edit">Application Form</a>. Succesful candidates will be contacted via email. </p>
 <hr/>
 
 {% comment %} 
