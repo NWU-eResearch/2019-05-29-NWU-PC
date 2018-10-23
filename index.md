@@ -222,7 +222,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
-  We will use this <a href="pad.carpentries.org/2018-11-23-R-Day">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="{{collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 {% endif %}
 
