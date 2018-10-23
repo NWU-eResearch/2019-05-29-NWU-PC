@@ -9,7 +9,7 @@ carpentry: "dc"
 title: "NWU PC Data Carpentry"
 
 # Contact email address.
-email: martin.dreyer@nwu.ac.za
+email: eresearch@nwu.ac.za
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -20,7 +20,7 @@ kind: "workshop"
 
 # Magic to make URLs resolve both locally and on GitHub.
 # See https://help.github.com/articles/repository-metadata-on-github-pages/.
-repository: "NWU-eResearch/2018-11-23-R-Day"
+repository: NWU-eResearch/2018-11-23-R-Day
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
