@@ -359,17 +359,17 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-
+<!--
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
-
+<!--
   <p>
     <a href="http://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
     <a href="http://www.rstudio.com/">RStudio</a>.
   </p>
-
+<
   <div class="row">
     <div class="col-md-4">
       <h4 id="r-windows">Windows</h4>
@@ -407,7 +407,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <code>sudo dnf install R</code>).  Also, please install the
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
       </p>
-    </div>
+    </div>-->
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
