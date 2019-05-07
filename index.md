@@ -484,32 +484,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
           Please ask your instructor to help you do this.
         </p>
       </article>
-      <article role="tabpanel" class="tab-pane active" id="editor-macos">
-        <p>
-          nano is a basic editor and the default that instructors use in the workshop.
-          See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
-          for an example on how to open nano.
-          It should be pre-installed.
-        </p>
-        <p>
-          Others editors that you can use are
-          <a href="https://www.barebones.com/products/bbedit/">BBEdit</a> or
-          <a href="https://www.sublimetext.com/">Sublime Text</a>.
-        </p>
-      </article>
-      <article role="tabpanel" class="tab-pane active" id="editor-linux">
-        <p>
-          nano is a basic editor and the default that instructors use in the workshop.
-          It should be pre-installed.
-        </p>
-        <p>
-          Others editors that you can use are
-          <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
-          <a href="https://kate-editor.org/">Kate</a> or
-          <a href="https://www.sublimetext.com/">Sublime Text</a>.
-        </p>
-      </article>
-    </div>
+     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
 <!--
@@ -629,21 +604,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </ul>
 
     <div class="tab-content">
-      <article role="tabpanel" class="tab-pane active" id="rstats-windows">
-        <a href="https://www.youtube.com/watch?v=q0PjTAylwoU">Video Tutorial</a>
-        <p>
-          Install R by downloading and running
-          <a href="https://cran.r-project.org/bin/windows/base/release.htm">this .exe file</a>
-          from <a href="https://cran.r-project.org/index.html">CRAN</a>.
-          Also, please install the
-          <a href="https://www.rstudio.com/products/rstudio/download/#download">RStudio IDE</a>.
-          Note that if you have separate user and admin accounts, you should run the 
-          installers as administrator (right-click on .exe file and select "Run as 
-          administrator" instead of double-clicking). Otherwise problems may occur later, 
-          for example when installing R packages.
-        </p>
-      </article>
-      <article role="tabpanel" class="tab-pane active" id="rstats-macos">
+       <article role="tabpanel" class="tab-pane active" id="rstats-macos">
         <a href="https://www.youtube.com/watch?v=5-ly3kyxwEg">Video Tutorial</a>
         <p>
           Install R by downloading and running
