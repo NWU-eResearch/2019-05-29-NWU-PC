@@ -1,16 +1,16 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
-venue: "2019 DHASA Conference"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Univeristy of Pretoria, Lynwood Rd, Hatfield, Pretoria, 0002"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+venue: "NWU Potchefstroom Campus"        # brief name of host site without address (e.g., "Euphoric State University")
+address: "North West University, Potchefstroom, 2531"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-latlng: "-25.746670, 28.231765"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
-humandate: "Mar 25, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "09:00 am - 16:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2019-03-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2019-03-27       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Martin Dreyer", "Zine Sapula"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+latlng: "-26.690397, 27.093096"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
+humandate: "May 29-30, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "08:00 am - 16:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2019-05-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2019-05-30      # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Martin Dreyer", "Bianca Petersen"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBC"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["martin.deyer@nwu.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:   http://pad.software-carpentry.org/2019-03-25-DHASA       # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -170,7 +170,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>Registration:</strong> Please register by completing the form at
-	<a href="https://goo.gl/forms/gUVc48bOKGPT8bv53">Application Form</a>. Successful candidates will be contacted via email. </p>
+	<a href="https://forms.gle/Rk62xTjAyDseZupB8">Application Form</a>. Successful candidates will be contacted via email. </p>
 <hr/>
 
 {% comment %} 
@@ -215,13 +215,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/2018-06-14-NWU
+      https://pad.carpentries.org/2019-05-29-NWU-PC
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
 {% endcomment %}
 <p>
-  We will use this <a href="https://pad.carpentries.org/2019-03-25-DHASA">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  We will use this <a href="https://pad.carpentries.org/2019-05-29-NWU-PC">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 
 <hr/>
@@ -359,17 +359,16 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </div>
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
-<!--
+
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
-<!--
   <p>
     <a href="http://www.r-project.org">R</a> is a programming language
     that is especially powerful for data exploration, visualization, and
     statistical analysis. To interact with R, we use
     <a href="http://www.rstudio.com/">RStudio</a>.
   </p>
-<
+
   <div class="row">
     <div class="col-md-4">
       <h4 id="r-windows">Windows</h4>
