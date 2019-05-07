@@ -170,7 +170,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   for more information.
 </p>
 
-<p><strong>Registration:</strong> Please register by completing the form at
+<p><strong>Registration:</strong> Registration for the workshop will be <b>R250</b> per person. This is to cover the cost of the workshop.
+	Please register by completing this form
 	<a href="https://forms.gle/Rk62xTjAyDseZupB8">Application Form</a>. Successful candidates will be contacted via email. </p>
 <hr/>
 
