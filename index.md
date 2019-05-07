@@ -470,7 +470,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
     </ul>
 
     <div class="tab-content">
-      <article role="tabpanel" class="tab-pane active" id="editor-windows">
+       <article role="tabpanel" class="tab-pane active" id="editor-windows">
         <p>
           nano is a basic editor and the default that instructors use in the workshop.
           It is installed along with Git.
@@ -482,6 +482,31 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
           <strong>Be aware that you must
             add its installation directory to your system path.</strong>
           Please ask your instructor to help you do this.
+        </p>
+      </article>
+      <article role="tabpanel" class="tab-pane active" id="editor-macos">
+        <p>
+          nano is a basic editor and the default that instructors use in the workshop.
+          See the Git installation <a href="https://www.youtube.com/watch?v=9LQhwETCdwY ">video tutorial</a>
+          for an example on how to open nano.
+          It should be pre-installed.
+        </p>
+        <p>
+          Others editors that you can use are
+          <a href="https://www.barebones.com/products/bbedit/">BBEdit</a> or
+          <a href="https://www.sublimetext.com/">Sublime Text</a>.
+        </p>
+      </article>
+      <article role="tabpanel" class="tab-pane active" id="editor-linux">
+        <p>
+          nano is a basic editor and the default that instructors use in the workshop.
+          It should be pre-installed.
+        </p>
+        <p>
+          Others editors that you can use are
+          <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>,
+          <a href="https://kate-editor.org/">Kate</a> or
+          <a href="https://www.sublimetext.com/">Sublime Text</a>.
         </p>
       </article>
      </div>
