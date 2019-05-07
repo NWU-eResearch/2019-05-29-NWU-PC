@@ -406,7 +406,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <code>sudo dnf install R</code>).  Also, please install the
         <a href="http://www.rstudio.com/ide/download/desktop">RStudio IDE</a>.
       </p>
-    </div>-->
+    </div>
   </div>
 </div> {% comment %} End of 'R' section. {% endcomment %}
 
