@@ -173,6 +173,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p><strong>Registration:</strong> Registration for the workshop will be <b>R250</b> per person. This is to cover the cost of the workshop.
 	Please register by completing this form
 	<a href="https://forms.gle/Rk62xTjAyDseZupB8">Application Form</a>. Successful candidates will be contacted via email. </p>
+<p><strong>Payment:</strong> For NWU affiliated particiapants a service billing can be done, for Participants not affiliated with the NWU or Private payments an invoice will be generated <b>after</b> registration only!</p>
 <hr/>
 
 {% comment %} 
